@@ -14,7 +14,7 @@
 
 ### Navegar por linguagem
 
-- [Java](https://github.com/theycelz/beecrowd-solucoes/java)
+- [Java](https://github.com/theycelz/beecrowd-solucoes/tree/main/Java)
 
 
 #### Disclaimer
